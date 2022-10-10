@@ -1,0 +1,12 @@
+.menucontainer {
+    line-height: 50px;
+    width: 325px;
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    color: #003399;
+    font-weight: 500;
+}

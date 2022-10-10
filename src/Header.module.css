@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: "Gilroy";
+    margin: 0;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    width: 770px;
+    height: 50px;
+    margin: auto;
+    margin-top: 15px;
+}

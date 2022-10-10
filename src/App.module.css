@@ -1,0 +1,6 @@
+.line {
+  width: 770px;
+  margin: auto;
+  margin-top: 15px;
+  stroke: solid rgba(0, 0, 0, 0.05);
+}
